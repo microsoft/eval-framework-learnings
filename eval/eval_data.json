@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the release year of Inception?",
+    "actualAnswer": "The release year of the movie Inception is 2010.",
+    "expectedAnswer": "The release year of the movie Inception is 2010."
+  },
+  {
+    "id": 2,
+    "question": "Who directed Titanic?",
+    "actualAnswer": "The movie Titanic was directed by James Cameron.",
+    "expectedAnswer": "James Cameron is the director of Titanic."
+  },
+  {
+    "id": 3,
+    "question": "Who played the Joker in The Dark Knight?",
+    "actualAnswer": "Heath Ledger played the Joker in the movie \"The Dark Knight\" (2008).",
+    "expectedAnswer": "In The Dark Knight, the Joker role was performed by Heath Ledger."
+  },
+  {
+    "id": 4,
+    "question": "What is the IMDb rating of The Shawshank Redemption?",
+    "actualAnswer": "The IMDb rating of The Shawshank Redemption is 9.3/10.",
+    "expectedAnswer": "The IMDb rating of The Shawshank Redemption is 9.3/10."
+  },
+  {
+    "id": 5,
+    "question": "What genre is The Matrix?",
+    "actualAnswer": "The genre of The Matrix is Action and Sci-Fi.",
+    "expectedAnswer": "The Matrix belongs to the science fiction and action genres."
+  },
+  {
+    "id": 6,
+    "question": "What is the runtime of Interstellar?",
+    "actualAnswer": "The runtime of the movie \"Interstellar\" is 169 minutes.",
+    "expectedAnswer": "Interstellar runs for approximately 169 minutes."
+  },
+  {
+    "id": 7,
+    "question": "Who wrote the screenplay of Pulp Fiction?",
+    "actualAnswer": "The screenplay of Pulp Fiction was written by Quentin Tarantino and Roger Avary.",
+    "expectedAnswer": "Quentin Tarantino, with Roger Avary, co‐wrote the screenplay for Pulp Fiction."
+  },
+  {
+    "id": 8,
+    "question": "Which production company made Jurassic Park?",
+    "actualAnswer": "The OMDB data for Jurassic Park does not list the production company. I will perform an internet search to find out which production company made Jurassic Park.Result not found.",
+    "expectedAnswer": "Jurassic Park was produced by Universal Pictures."
+  },
+  {
+    "id": 9,
+    "question": "Who played Iron Man in Iron Man (2008)?",
+    "actualAnswer": "Robert Downey Jr. played Iron Man in Iron Man (2008).",
+    "expectedAnswer": "Iron Man (2008) starred Robert Downey Jr. in the lead role."
+  },
+  {
+    "id": 10,
+    "question": "What language is Parasite primarily in?",
+    "actualAnswer": "The primary language of the movie \"Parasite\" is Korean, with some English as well.",
+    "expectedAnswer": "Parasite is mainly in Korean."
+  },
+  {
+    "id": 11,
+    "question": "What is the plot of Forrest Gump?",
+    "actualAnswer": "The plot of Forrest Gump centers on the history of the United States from the 1950s to the ’70s as seen through the perspective of an Alabama man with an IQ of 75. He yearns to be reunited with his childhood sweetheart.",
+    "expectedAnswer": "Forrest Gump tells the story of an Alabama man with limited IQ growing up through major US events from the 1950s to the 1970s, longing for his childhood love."
+  },
+  {
+    "id": 12,
+    "question": "Who starred in The Godfather?",
+    "actualAnswer": "The main stars of the movie \"The Godfather\" are Marlon Brando, Al Pacino, and James Caan.",
+    "expectedAnswer": "The Godfather features Marlon Brando, Al Pacino, and James Caan in leading roles."
+  },
+  {
+    "id": 13,
+    "question": "What character did Leonardo DiCaprio play in The Revenant?",
+    "actualAnswer": "The OMDB API data does not specify the character name Leonardo DiCaprio played in \"The Revenant.\" Additionally, an internet search did not return relevant information. \n\nResult not found.",
+    "expectedAnswer": "Leonardo DiCaprio played Hugh Glass in The Revenant."
+  },
+  {
+    "id": 14,
+    "question": "Who played Hermione Granger in Harry Potter movies?",
+    "actualAnswer": "Hermione Granger in the Harry Potter movies was played by Emma Watson.",
+    "expectedAnswer": "Emma Watson portrayed Hermione Granger."
+  },
+  {
+    "id": 15,
+    "question": "What role did Keanu Reeves play in The Matrix?",
+    "actualAnswer": "Keanu Reeves played the role of Neo in the movie \"The Matrix.\"",
+    "expectedAnswer": "Keanu Reeves’ character in The Matrix is Neo (Thomas Anderson)."
+  },
+  {
+    "id": 16,
+    "question": "Did Gladiator win an Oscar?",
+    "actualAnswer": "Yes, the movie \"Gladiator\" won 5 Oscars.",
+    "expectedAnswer": "Gladiator won several Oscars, including Best Picture in 2001."
+  },
+  {
+    "id": 17,
+    "question": "How many Oscars did Slumdog Millionaire win?",
+    "actualAnswer": "The movie Slumdog Millionaire won 8 Oscars.",
+    "expectedAnswer": "Slumdog Millionaire collected 8 Oscars."
+  },
+  {
+    "id": 18,
+    "question": "Did La La Land win Best Picture?",
+    "actualAnswer": "The movie \"La La Land\" won 6 Oscars, but it did not win the Best Picture award.",
+    "expectedAnswer": "La La Land did not win Best Picture; Moonlight won instead."
+  },
+  {
+    "id": 19,
+    "question": "Was Avatar nominated for Best Picture?",
+    "actualAnswer": "The data retrieved from OMDB confirms that \"Avatar\" (2009) won 3 Oscars and had a total of 131 nominations, but it does not specify if one of those nominations was for Best Picture. Additionally, a search on the internet for \"Avatar 2009 Best Picture nomination\" did not yield relevant results.  \n\nTo clarify, \"Avatar\" was indeed nominated for Best Picture at the 82nd Academy Awards (2009), but this specific information is not confirmed by the sources I accessed. Based on official Oscar history, it was nominated but did not win Best Picture.  \n\nIf you want confirmation strictly from a movie database source mentioned, the OMDB data does not provide explicit nomination details for Best Picture.",
+    "expectedAnswer": "Avatar (2009) was nominated for Best Picture at the 82nd Academy Awards."
+  },
+  {
+    "id": 20,
+    "question": "What is the Rotten Tomatoes rating of Black Panther?",
+    "actualAnswer": "The Rotten Tomatoes rating of \"Black Panther\" is 96%.",
+    "expectedAnswer": "Black Panther holds a 96% rating on Rotten Tomatoes."
+  },
+  {
+    "id": 21,
+    "question": "Who directed Spirited Away?",
+    "actualAnswer": "The movie \"Spirited Away\" was directed by Hayao Miyazaki.",
+    "expectedAnswer": "Hayao Miyazaki is the director of Spirited Away."
+  },
+  {
+    "id": 22,
+    "question": "What country produced Amélie?",
+    "actualAnswer": "The movie \"Amélie\" was produced by France and Germany.",
+    "expectedAnswer": "Amélie was a film produced in France."
+  },
+  {
+    "id": 23,
+    "question": "Which language is spoken in Crouching Tiger, Hidden Dragon?",
+    "actualAnswer": "The language spoken in the movie \"Crouching Tiger, Hidden Dragon\" is Mandarin Chinese.",
+    "expectedAnswer": "Crouching Tiger, Hidden Dragon is in Mandarin."
+  },
+  {
+    "id": 24,
+    "question": "What is the plot of City of God?",
+    "actualAnswer": "The plot of \"City of God\" is about two kids growing up in the slums of Rio de Janeiro whose paths diverge as one struggles to become a photographer and the other becomes a kingpin. The film is a crime drama directed by Fernando Meirelles and Kátia Lund, released in 2002.",
+    "expectedAnswer": "City of God follows two boys in Rio de Janeiro’s slums—one becomes a photographer, the other a crime lord—in a 2002 crime drama."
+  },
+  {
+    "id": 25,
+    "question": "Who starred in Pan’s Labyrinth?",
+    "actualAnswer": "The movie \"Pan's Labyrinth\" (2006) starred Ivana Baquero, Ariadna Gil, and Sergi López.",
+    "expectedAnswer": "Pan’s Labyrinth features Ivana Baquero, Ariadna Gil, and Sergi López."
+  },
+  {
+    "id": 26,
+    "question": "What is the budget of Oppenheimer (2023)?",
+    "actualAnswer": "The OMDB database does not provide information about the budget of the movie \"Oppenheimer (2023).\" Would you like me to try searching for this information on the internet?",
+    "expectedAnswer": "Oppenheimer (2023) had a budget of approximately $100 million."
+  },
+  {
+    "id": 27,
+    "question": "What is the box office revenue of Barbie (2023)?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Barbie (2023) earned about $1.4 billion at the box office."
+  },
+  {
+    "id": 28,
+    "question": "Who composed the soundtrack for Dune (2021)?",
+    "actualAnswer": "Result not found. The OMDB database and an internet search did not return information about the soundtrack composer for Dune (2021).",
+    "expectedAnswer": "Hans Zimmer composed the soundtrack for Dune (2021)."
+  },
+  {
+    "id": 29,
+    "question": "Who won Best Actor for Everything Everywhere All at Once?",
+    "actualAnswer": "The data found from OMDB indicates that \"Everything Everywhere All at Once\" won 7 Oscars, but it does not specify the winner of the Best Actor category. Additionally, an internet search did not return relevant information about who won Best Actor for this movie. Thus, the specific Best Actor Oscar winner for \"Everything Everywhere All at Once\" is not found in the available sources.",
+    "expectedAnswer": "Ke Huy Quan won the Best Supporting Actor Oscar; Michelle Yeoh won Best Actress for Everything Everywhere All at Once."
+  },
+  {
+    "id": 30,
+    "question": "What location was The Lord of the Rings filmed in?",
+    "actualAnswer": "The information from OMDB about \"The Lord of the Rings\" (1978 animated version) does not specify the filming locations. Additionally, a search on the internet for filming locations of \"The Lord of the Rings\" did not return relevant results.  \n\nResult not found.",
+    "expectedAnswer": "The live‐action Lord of the Rings trilogy was filmed in New Zealand."
+  },
+  {
+    "id": 31,
+    "question": "Who directed Star Wars 12?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 32,
+    "question": "What is the plot of Made-up Movie 123?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 33,
+    "question": "Who acted in Avengers 8?",
+    "actualAnswer": "There is no information available about a movie titled \"Avengers 8\" in the OMDB database. Would you like me to search for this information on the internet?",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 34,
+    "question": "When was Spiderman 2099 released?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 35,
+    "question": "What is the rating of Nonexistent Film: The Beginning?",
+    "actualAnswer": "The movie \"Nonexistent Film: The Beginning\" was not found in the OMDB database. I will now search on the internet.Result not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 36,
+    "question": "Who played Black Panther in Black Panther (2018)?",
+    "actualAnswer": "Chadwick Boseman played Black Panther in Black Panther (2018).",
+    "expectedAnswer": "Chadwick Boseman portrayed the Black Panther in the 2018 film."
+  },
+  {
+    "id": 37,
+    "question": "What is the runtime of Avatar: The Way of Water?",
+    "actualAnswer": "The runtime of \"Avatar: The Way of Water\" is 192 minutes.",
+    "expectedAnswer": "Avatar: The Way of Water runs about 192 minutes."
+  },
+  {
+    "id": 38,
+    "question": "Who directed The Social Network?",
+    "actualAnswer": "The Social Network was directed by David Fincher.",
+    "expectedAnswer": "David Fincher directed The Social Network."
+  },
+  {
+    "id": 39,
+    "question": "What is the IMDb rating of Oppenheimer (2023)?",
+    "actualAnswer": "The IMDb rating for \"Oppenheimer\" (2023) is not available from the OMDB API, and no relevant information was found from internet searches. Hence, the IMDb rating for this movie cannot be provided at this time.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 40,
+    "question": "Who wrote the novel on which The Godfather is based?",
+    "actualAnswer": "The novel on which The Godfather is based was written by Mario Puzo.",
+    "expectedAnswer": "The Godfather is based on a novel by Mario Puzo."
+  },
+  {
+    "id": 41,
+    "question": "Which came first, Toy Story or Finding Nemo?",
+    "actualAnswer": "Toy Story came first; it was released on November 22, 1995. Finding Nemo was released later, on May 30, 2003.",
+    "expectedAnswer": "Toy Story was released before Finding Nemo."
+  },
+  {
+    "id": 42,
+    "question": "Which movie has a higher IMDb rating: The Dark Knight or Batman v Superman?",
+    "actualAnswer": "Based on the IMDb ratings from the OMDB API:\n\n- The Dark Knight has an IMDb rating of 9.1/10.\n- Batman v Superman (2013 short comedy) has an IMDb rating of 8.1/10.\n\nTherefore, The Dark Knight has a higher IMDb rating.",
+    "expectedAnswer": "The Dark Knight has a higher IMDb rating than Batman v Superman."
+  },
+  {
+    "id": 43,
+    "question": "Which movie stars both Robert De Niro and Al Pacino?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 44,
+    "question": "Did Frozen 2 earn more than Frozen at the box office?",
+    "actualAnswer": "Based on the OMDB data, the original \"Frozen\" (2013) has a reported box office earning of $400,953,009. The search for \"Frozen 2\" did not return a direct match for the movie but only a documentary about the making of Frozen 2.\n\nTherefore, from the information retrieved, I cannot confirm the box office earnings for \"Frozen 2\" and thus cannot determine if it earned more than \"Frozen.\" If you want, I can try searching again or with a different query.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 45,
+    "question": "Which is longer: Gone with the Wind or The Irishman?",
+    "actualAnswer": "\"Gone with the Wind\" has a runtime of 238 minutes, while \"The Irishman\" has a runtime of 209 minutes. Therefore, \"Gone with the Wind\" is longer.",
+    "expectedAnswer": "Gone with the Wind has a longer runtime than The Irishman."
+  },
+  {
+    "id": 46,
+    "question": "What is the tagline of Alien (1979)?",
+    "actualAnswer": "The OMDB API and internet search did not provide the tagline for the movie \"Alien\" (1979). Therefore, the tagline information is not found.",
+    "expectedAnswer": "Result not found"
+  },
+  {
+    "id": 47,
+    "question": "Who played Wonder Woman in Wonder Woman (2017)?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Gal Gadot portrayed Wonder Woman in the 2017 film."
+  },
+  {
+    "id": 48,
+    "question": "What is the main theme of Inside Out (2015)?",
+    "actualAnswer": "Result not found.",
+    "expectedAnswer": "Inside Out explores the emotions inside a young girl's mind."
+  },
+  {
+    "id": 49,
+    "question": "What was the release year of The Lion King (animated)?",
+    "actualAnswer": "The release year of The Lion King (animated) is 1994.",
+    "expectedAnswer": "The Lion King (animated) was released in 1994."
+  },
+  {
+    "id": 50,
+    "question": "What was the box office collection of Avengers: Endgame?",
+    "actualAnswer": "The box office collection of Avengers: Endgame was $858,373,000 according to the OMDB data.",
+    "expectedAnswer": "Avengers: Endgame grossed about $858 million at the box office."
+  }
+]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Agent_SemanticKernel", "AI_Agent_SemanticKernel.csproj", "{892ED256-9B9D-BF7E-C9A5-8494525F7BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892ED256-9B9D-BF7E-C9A5-8494525F7BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892ED256-9B9D-BF7E-C9A5-8494525F7BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892ED256-9B9D-BF7E-C9A5-8494525F7BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892ED256-9B9D-BF7E-C9A5-8494525F7BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CAE99F-75E5-453F-B4D4-294A6FD953DF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "question": "What is the release year of Inception?",
+    "expectedAnswer": "2010"
+  },
+  {
+    "id": 2,
+    "question": "Who directed Titanic?",
+    "expectedAnswer": "James Cameron"
+  },
+  {
+    "id": 3,
+    "question": "Who played the Joker in The Dark Knight?",
+    "expectedAnswer": "Heath Ledger"
+  },
+  {
+    "id": 4,
+    "question": "What is the IMDb rating of The Shawshank Redemption?",
+    "expectedAnswer": "~9.3"
+  },
+  {
+    "id": 5,
+    "question": "What genre is The Matrix?",
+    "expectedAnswer": "Action, Sci-Fi"
+  },
+  {
+    "id": 6,
+    "question": "What is the runtime of Interstellar?",
+    "expectedAnswer": "169 minutes"
+  },
+  {
+    "id": 7,
+    "question": "Who wrote the screenplay of Pulp Fiction?",
+    "expectedAnswer": "Quentin Tarantino"
+  },
+  {
+    "id": 8,
+    "question": "Which production company made Jurassic Park?",
+    "expectedAnswer": "Universal Pictures"
+  },
+  {
+    "id": 9,
+    "question": "Who played Iron Man in Iron Man (2008)?",
+    "expectedAnswer": "Robert Downey Jr."
+  },
+  {
+    "id": 10,
+    "question": "What language is Parasite primarily in?",
+    "expectedAnswer": "Korean"
+  },
+  {
+    "id": 11,
+    "question": "What is the plot of Forrest Gump?",
+    "expectedAnswer": "Short summary from OMDB"
+  },
+  {
+    "id": 12,
+    "question": "Who starred in The Godfather?",
+    "expectedAnswer": "Marlon Brando, Al Pacino, etc."
+  },
+  {
+    "id": 13,
+    "question": "What character did Leonardo DiCaprio play in The Revenant?",
+    "expectedAnswer": "Hugh Glass"
+  },
+  {
+    "id": 14,
+    "question": "Who played Hermione Granger in Harry Potter movies?",
+    "expectedAnswer": "Emma Watson"
+  },
+  {
+    "id": 15,
+    "question": "What role did Keanu Reeves play in The Matrix?",
+    "expectedAnswer": "Neo / Thomas Anderson"
+  },
+  {
+    "id": 16,
+    "question": "Did Gladiator win an Oscar?",
+    "expectedAnswer": "Yes, Best Picture (2001)"
+  },
+  {
+    "id": 17,
+    "question": "How many Oscars did Slumdog Millionaire win?",
+    "expectedAnswer": "8"
+  },
+  {
+    "id": 18,
+    "question": "Did La La Land win Best Picture?",
+    "expectedAnswer": "No, Moonlight won"
+  },
+  {
+    "id": 19,
+    "question": "Was Avatar nominated for Best Picture?",
+    "expectedAnswer": "Yes"
+  },
+  {
+    "id": 20,
+    "question": "What is the Rotten Tomatoes rating of Black Panther?",
+    "expectedAnswer": "~96%"
+  },
+  {
+    "id": 21,
+    "question": "Who directed Spirited Away?",
+    "expectedAnswer": "Hayao Miyazaki"
+  },
+  {
+    "id": 22,
+    "question": "What country produced Amélie?",
+    "expectedAnswer": "France"
+  },
+  {
+    "id": 23,
+    "question": "Which language is spoken in Crouching Tiger, Hidden Dragon?",
+    "expectedAnswer": "Mandarin"
+  },
+  {
+    "id": 24,
+    "question": "What is the plot of City of God?",
+    "expectedAnswer": "Brazilian crime drama summary"
+  },
+  {
+    "id": 25,
+    "question": "Who starred in Pan’s Labyrinth?",
+    "expectedAnswer": "Ivana Baquero, Sergi López"
+  },
+  {
+    "id": 26,
+    "question": "What is the budget of Oppenheimer (2023)?",
+    "expectedAnswer": "~$100M"
+  },
+  {
+    "id": 27,
+    "question": "What is the box office revenue of Barbie (2023)?",
+    "expectedAnswer": "~$1.4B"
+  },
+  {
+    "id": 28,
+    "question": "Who composed the soundtrack for Dune (2021)?",
+    "expectedAnswer": "Hans Zimmer"
+  },
+  {
+    "id": 29,
+    "question": "Who won Best Actor for Everything Everywhere All at Once?",
+    "expected_answer": "Result from awards (e.g., Ke Huy Quan won Best Supporting Actor, Michelle Yeoh Best Actress)"
+  },
+  {
+    "id": 30,
+    "question": "What location was The Lord of the Rings filmed in?",
+    "expected_answer": "New Zealand"
+  },
+  {
+    "id": 31,
+    "question": "Who directed Star Wars 12?",
+    "expected_answer": "Result not found"
+  },
+  {
+    "id": 32,
+    "question": "What is the plot of Made-up Movie 123?",
+    "expected_answer": "Result not found"
+  },
+  {
+    "id": 33,
+    "question": "Who acted in Avengers 8?",
+    "expected_answer": "Result not found"
+  },
+  {
+    "id": 34,
+    "question": "When was Spiderman 2099 released?",
+    "expected_answer": "Result not found"
+  },
+  {
+    "id": 35,
+    "question": "What is the rating of Nonexistent Film: The Beginning?",
+    "expected_answer": "Result not found"
+  },
+  {
+    "id": 36,
+    "question": "Who played Black Panther in Black Panther (2018)?",
+    "expected_answer": "Chadwick Boseman"
+  },
+  {
+    "id": 37,
+    "question": "What is the runtime of Avatar: The Way of Water?",
+    "expected_answer": "192 minutes"
+  },
+  {
+    "id": 38,
+    "question": "Who directed The Social Network?",
+    "expected_answer": "David Fincher"
+  },
+  {
+    "id": 39,
+    "question": "What is the IMDb rating of Oppenheimer (2023)?",
+    "expected_answer": "~8.5"
+  },
+  {
+    "id": 40,
+    "question": "Who wrote the novel on which The Godfather is based?",
+    "expected_answer": "Mario Puzo"
+  },
+  {
+    "id": 41,
+    "question": "Which came first, Toy Story or Finding Nemo?",
+    "expected_answer": "Toy Story (1995)"
+  },
+  {
+    "id": 42,
+    "question": "Which movie has a higher IMDb rating: The Dark Knight or Batman v Superman?",
+    "expected_answer": "The Dark Knight"
+  },
+  {
+    "id": 43,
+    "question": "Which movie stars both Robert De Niro and Al Pacino?",
+    "expected_answer": "Heat, The Irishman, The Godfather Part II"
+  },
+  {
+    "id": 44,
+    "question": "Did Frozen 2 earn more than Frozen at the box office?",
+    "expected_answer": "Yes"
+  },
+  {
+    "id": 45,
+    "question": "Which is longer: Gone with the Wind or The Irishman?",
+    "expected_answer": "Gone with the Wind (221 min)"
+  },
+  {
+    "id": 46,
+    "question": "What is the tagline of Alien (1979)?",
+    "expected_answer": "In space no one can hear you scream."
+  },
+  {
+    "id": 47,
+    "question": "Who played Wonder Woman in Wonder Woman (2017)?",
+    "expected_answer": "Gal Gadot"
+  },
+  {
+    "id": 48,
+    "question": "What is the main theme of Inside Out (2015)?",
+    "expected_answer": "Emotions inside the mind"
+  },
+  {
+    "id": 49,
+    "question": "What was the release year of The Lion King (animated)?",
+    "expected_answer": "1994"
+  },
+  {
+    "id": 50,
+    "question": "What was the box office collection of Avengers: Endgame?",
+    "expected_answer": "~$2.8B"
+  }
+]
+ 
